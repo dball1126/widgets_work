@@ -1,0 +1,55 @@
+.clock {
+    font-size: 40px;
+    width: 300px;
+    height: 300px;
+    border: 5px dotted black;
+    background-color: pink;
+}
+
+.tabs {
+    border-radius: 15px;
+    font-size: 40px;
+    width: 300px;
+    height: 300px;
+    
+    background-color: pink;
+}
+
+.auto {
+    border-radius: 15px;
+    font-size: 40px;
+    width: 300px;
+    height: 300px;
+    
+    background-color: pink;
+}
+
+.weather {
+    border-radius: 15px;
+    font-size: 40px;
+    width: 200px;
+    height: 200px;
+    
+    background-color: pink;
+}
+.tab-header{
+    border-radius: 10px black;
+    display: flex;
+    font-size: 20px;
+    justify-content: space-between;
+    
+}
+
+.tab-header li {
+    list-style-type: none;
+    border-radius: 5px black;
+    border: black;
+}
+
+.active{
+    background-color: white;
+}
+
+.main-area{
+    display: flex;
+}
